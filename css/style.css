@@ -41,9 +41,9 @@ h2 {
 
 h3 {
   font-style: italic;
-  font-size: 20px;
-  color: #000;
-  line-height: 22px;
+  font-size: 18px;
+  color: #999;
+  line-height: 20px;
 }
 
 h4 {
@@ -90,6 +90,11 @@ a {
   text-decoration: none;
   margin-top: 10px;
   display: block;
+}
+
+.role-format {
+  font-size: 16px;
+  background-color: #33F8FF;
 }
 
 .welcome-message {
